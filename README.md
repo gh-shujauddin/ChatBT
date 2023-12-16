@@ -1,7 +1,7 @@
-<!-- 
-![GitHub Cards Preview](https://github.com/Spikeysanju/Expenso/blob/master/art/EXPENSO-ANDROID.png?raw=true)
--->
+![GitHub Cards Preview](https://github.com/gh-shujauddin/ChatBT/assets/73093103/6e475fcf-a95e-4d98-ad74-9d5265cc3ca7)
+
 # ChatBT
+
 A Simple Bluetooth Chat application 📱 built to demonstrate the use of modern android architecture component with MVVM Architecture 🏗 and bluetooth services.
 
 <br />
