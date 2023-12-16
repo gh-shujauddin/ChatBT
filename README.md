@@ -1,9 +1,9 @@
 #  - 
 
 ChatBT is a bluetooth chat application made with jetpack compose ui toolkit using bluetooth services of android.
-
+<!-- 
 ![GitHub Cards Preview](https://github.com/Spikeysanju/Expenso/blob/master/art/EXPENSO-ANDROID.png?raw=true)
-
+-->
 # ChatBT
 A Simple Bluetooth Chat application 📱 built to demonstrate the use of modern android architecture component with MVVM Architecture 🏗 and bluetooth services.
 
